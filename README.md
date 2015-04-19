@@ -22,4 +22,6 @@ Front End Application developed with generator-angular-crud for managing a sales
 
 3. `npm install` (maybe sudo is required for Linux)
 
-4. `gulp serve-dev`
+4. `bower install`
+
+5. `gulp serve-dev`
